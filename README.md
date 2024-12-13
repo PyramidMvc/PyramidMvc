@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Nihat Doğan**, the developer of **PyramidMvc**.
 - 👀 I’m interested in web development, software engineering, and creating innovative solutions.
-- 🌱 I’m currently learning advanced PHP techniques, modern `JavaScript` frameworks, and mobile app development with `Flutter`.
+- 🌱 I’m currently learning advanced `PHP` techniques, modern `JavaScript` frameworks, and `mobile` app development with `Flutter`.
 - 💞️ I’m looking to collaborate on web and mobile application projects, `API` integrations, and `full-stack` development.
 - 📫 How to reach me: You can reach me via [pyramidmvc@gmail.com](pyramidmvc@gmail.com) or [Github Profile](https://github.com/PyramidMvc).
 - 😄 Pronouns: He/Him
