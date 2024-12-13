@@ -12,7 +12,7 @@ I am a seasoned software specialist with extensive expertise in web development.
 
 Throughout my career, I have contributed to projects across diverse industries, honing my skills in the full spectrum of web application development. With in-depth knowledge of both `front-end` and `back-end` technologies, I am well-equipped to manage `end-to-end` projects as a `full-stack` developer.
 
-I have significant experience developing web applications, dynamic websites, and API integrations using PHP. My expertise extends to data management, query optimization, and secure data communication using `MySQL` databases and `PDO`. I am also skilled at creating rich, interactive, and responsive user interfaces using `JavaScript`, `Ajax`, and `CSS`, ensuring a seamless user experience (`UX`).
+I have significant experience developing web applications, dynamic websites, and `API` integrations using `PHP`. My expertise extends to data management, query optimization, and secure data communication using `MySQL` databases and `PDO`. I am also skilled at creating rich, interactive, and responsive user interfaces using `JavaScript`, `Ajax`, and `CSS`, ensuring a seamless user experience (`UX`).
 
 In addition, I specialize in mobile application development using Flutter, enabling me to create robust cross-platform solutions. I am passionate about designing visually appealing, cohesive user interfaces with modern frameworks such as Bootstrap, ensuring both aesthetic appeal and functionality.
 
